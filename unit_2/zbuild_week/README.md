@@ -6,4 +6,4 @@ Many of the necesary files I couldn't include because they exceeded the 100 mb l
 
 To access the data set I used, go to this link: <https://www.kaggle.com/tunguz/big-five-personality-test>
 
-To generate the .joblib files for the models, uncomment the section of commented out code in the notebook and run the cells. It will take ages, but you'll get them.
+To generate the .joblib files for the models, uncomment the section of commented out code in the notebook and run the cells. It will take ages, but you'll get them. The bigfiveapp.py won't work without them.
